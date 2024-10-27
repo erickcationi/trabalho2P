@@ -11,15 +11,6 @@
     width: 100%;
 }
 
-/*preferenxia ao titulo*/
-.navbar h3{
-    float: left;
-    display: block;
-    color: #f2f2f2;
-    text-align: center;
-    font-size: 14pt;
-}
-
 /*a tag a da preferencia ao texto*/
     .navbar a{
         float: right;
@@ -45,8 +36,9 @@
 
 
     .sechome{
+        top: 0;
         background-color: #252525;
-        height: 90vh;
+        height: 120vh;
         width: 100%;
     }
 
