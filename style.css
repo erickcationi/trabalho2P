@@ -77,3 +77,16 @@ html{
 #contato{
     background-color: #697565;
 }
+
+.rodape{
+    background-color: #0000;
+    width: 100%;
+    height: 20vh;
+}
+
+.rodape p{
+    color: white;
+    font-size: 12pt;
+    text-align: center;
+    text-decoration: none;
+}
