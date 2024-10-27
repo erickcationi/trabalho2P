@@ -1,1 +1,35 @@
+.body{
+    margin: 0;
+    border: 0;
+}
 
+.navbar {
+    display: flex;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    height: 20vh;
+    top: 0;
+    width: 100%;
+}
+
+navbar ul{
+    flex-direction: row;
+    text-align: center;
+}
+
+.navbar li{
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px, 16px;
+    text-decoration: none;
+    font-size: 17pt;
+
+}
+
+navbar li:hover{
+    background-color: #ddd;
+    color: black;
+}
