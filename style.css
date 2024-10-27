@@ -17,9 +17,8 @@
     display: block;
     padding: 14px 16px;
     color: #f2f2f2;
-    font-weight: bold;
     text-align: center;
-    font-size: 18pt;
+    font-size: 14pt;
 }
 
 /*a tag a da preferencia ao texto*/
@@ -36,4 +35,29 @@
     .navbar a:hover{
         background-color: #ddd;
         color: black;
+    }
+
+    .main {
+        border: 0;
+    }
+
+    .subtitulos{
+     font-weight: bold;
+     color: #ddd;
+     text-decoration: none;
+     text-align: center;
+    }
+
+
+    .sechome{
+        background-color: #252525;
+        height: 90vh;
+        width: 100%;
+    }
+
+    .sechome p{
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        text-align: center;
+        text-decoration: none;
+        color: #f2f2f2;
     }
