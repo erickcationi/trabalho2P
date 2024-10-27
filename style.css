@@ -55,6 +55,8 @@ html{
     height: 100vh;
     display: flex;
     text-align: center;
+    justify-content: center;
+    text-align: center;
 }
 
 .container span{
@@ -62,10 +64,11 @@ html{
     text-align: center;
     justify-content: center;
     align-items: center;
-    margin: 30px;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    margin-left: 30px;
+    margin: 70px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    margin-left: 70px;
+    font-size: 7pt;
 }
 
 
