@@ -11,6 +11,15 @@
     width: 100%;
 }
 
+.navbar h4{
+    color: #f2f2f2;
+    text-align: center;
+    float: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 16pt;
+}
+
 /*a tag a da preferencia ao texto*/
     .navbar a{
         float: right;
@@ -20,6 +29,7 @@
         padding: 14px 16px;
         text-decoration: none;
         font-size: 14pt;
+        align-items: flex-end;
     }
 /*efeito ao passar o mouse, peguei do ultimo projeto*/
     .navbar a:hover{
@@ -35,9 +45,8 @@
     }
 
     .cabeçalho {
-        top: 0;
         background-color: #252525;
-        height: 120vh;
+        height: 30vh;
         width: 100%;
     }
 
