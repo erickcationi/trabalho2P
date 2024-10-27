@@ -43,10 +43,10 @@ html{
 }
 
 .subtitulos {
+    text-align: center;
     font-weight: bold;
     color: #ddd;
     text-decoration: none;
-    text-align: center;
 }
 
 /*containers que esrudamos na sala de aula, fora no curso*/
@@ -60,6 +60,8 @@ html{
 .container span{
     color: #fff;
     text-align: center;
+    justify-content: center;
+    align-items: center;
 }
 
 
