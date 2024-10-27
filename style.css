@@ -59,23 +59,28 @@ html{
 
 .container span{
     color: #fff;
+    text-align: center;
 }
 
 
 #home{
     background-color: #181c14;
+    text-align: center;
 }
 
 #sobre{
     background-color: #3c3d37;
+    text-align: center;
 }
 
 #servicos{
     background-color: #525e4e;
+    text-align: center;
 }
 
 #contato{
     background-color: #697565;
+    text-align: center;
 }
 
 .rodape{
