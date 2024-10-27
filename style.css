@@ -16,6 +16,7 @@ html{
     background-color: #333;
     position: fixed;
     width: 100%;
+    top: 0;
 }
 
 /*a tag a da preferencia ao texto*/
@@ -43,8 +44,9 @@ html{
 
 .subtitulo1 {
     display: flex;
-    background: linear-gradient(#333 #181c14);
+    background: linear-gradient(#333, #181c14);
     margin-top: 10px;
+    justify-content: center;
     text-align: center;
     font-weight: bold;
     color: #ddd;
@@ -53,9 +55,10 @@ html{
 
 .subtitulo2 {
     display: flex;
-    background: linear-gradient(#181c14 #3c3d37);
+    background: linear-gradient(#181c14, #3c3d37);
     margin-top: 10px;
     text-align: center;
+    justify-content: center;
     font-weight: bold;
     color: #ddd;
     text-decoration: none;
@@ -63,9 +66,10 @@ html{
 
 .subtitulo3 {
     display: flex;
-    background: linear-gradient(#3c3d37 #525e4e);
+    background: linear-gradient(#3c3d37, #525e4e);
     margin-top: 10px;
     text-align: center;
+    justify-content: center;
     font-weight: bold;
     color: #ddd;
     text-decoration: none;
@@ -73,9 +77,10 @@ html{
 
 .subtitulo4 {
     display: flex;
-    background: linear-gradient(#525e4e #697565);
+    background: linear-gradient(#525e4e, #697565);
     margin-top: 10px;
     text-align: center;
+    justify-content: center;
     font-weight: bold;
     color: #ddd;
     text-decoration: none;
