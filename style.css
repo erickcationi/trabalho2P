@@ -1,9 +1,15 @@
-.body{
+.body {
     margin: 0;
     border: 0;
 }
+
+/*transiçãozinha q aprendi hihihihi*/
+html{
+    scroll-behavior: smooth;
+}
+
 /*Todas as tags que eu usei eu aprendi no curso hcode gratuito*/
-.navbar{
+.navbar {
     overflow: hidden;
     background-color: #333;
     position: fixed;
@@ -11,7 +17,7 @@
     width: 100%;
 }
 
-.navbar h4{
+.navbar h4 {
     color: #f2f2f2;
     text-align: center;
     float: left;
@@ -21,51 +27,55 @@
 }
 
 /*a tag a da preferencia ao texto*/
-    .navbar a{
-        float: right;
-        display: block;
-        color: #f2f2f2;
-        text-align: center;
-        padding: 14px 16px;
-        text-decoration: none;
-        font-size: 14pt;
-    }
+.navbar a {
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 14pt;
+}
+
 /*efeito ao passar o mouse, peguei do ultimo projeto*/
-    .navbar a:hover{
-        background-color: #ddd;
-        color: black;
-    }
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+}
 
-    .subtitulos{
-     font-weight: bold;
-     color: #ddd;
-     text-decoration: none;
-     text-align: center;
-    }
+.subtitulos {
+    font-weight: bold;
+    color: #ddd;
+    text-decoration: none;
+    text-align: center;
+}
 
- /*estilizando as sections*/
-    .sechome{
-        background-color: #252525;
-        height: 120vh;
-        width: 100%;
-    }
+/*containers que esrudamos na sala de aula, fora no curso*/
+.container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
-    .sechome p{
-        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-        text-align: center;
-        text-decoration: none;
-        color: #f2f2f2;
-    }
+.container span{
+    color: #fff;
+}
 
-    .secus {
-        background-color: #333;
-        height: 120vh;
-        width: 100%;
-    }
 
-    .secus p{
-        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-        text-align: center;
-        text-decoration: none;
-        color: #f2f2f2;
-    }
+#home{
+    background-color: #181c14;
+}
+
+#sobre{
+    background-color: #3c3d37;
+}
+
+#serviços{
+    background-color: #697565;
+}
+
+#contato{
+    background-color: #ecdfcc;
+}
