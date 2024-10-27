@@ -54,8 +54,6 @@ html{
     width: 100%;
     height: 100vh;
     display: flex;
-    align-items: center;
-    justify-content: center;
     text-align: center;
 }
 
@@ -73,9 +71,9 @@ html{
 }
 
 #servicos{
-    background-color: #697565;
+    background-color: #525e4e;
 }
 
 #contato{
-    background-color: #ecdfcc;
+    background-color: #697565;
 }
