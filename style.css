@@ -30,6 +30,12 @@ html{
     font-size: 14pt;
 }
 
+.logonav{
+    justify-content: center;
+    float: left;
+    align-items: flex-start;
+}
+
 /*efeito ao passar o mouse, peguei do ultimo projeto*/
 .navbar a:hover {
     background-color: #ddd;
@@ -66,7 +72,7 @@ html{
     background-color: #3c3d37;
 }
 
-#serviços{
+#servicos{
     background-color: #697565;
 }
 
