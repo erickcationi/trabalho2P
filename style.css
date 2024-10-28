@@ -52,6 +52,7 @@ html{
 }
 
 .subtitulo1 {
+    margin-top: 10vh;
     bottom: 0;
     top: 0;
     display: flex;
@@ -64,7 +65,6 @@ html{
 }
 
 .subtitulo2 {
-    margin-top: 10vh;
     bottom: 0;
     top: 0;
     display: flex;
