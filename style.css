@@ -44,6 +44,7 @@ html{
 }
 
 .subtitulo1 {
+    flex-direction: row;
     bottom: 0;
     top: 0;
     display: flex;
