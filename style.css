@@ -43,8 +43,14 @@ html{
     color: black;
 }
 
+.tapabarra{
+    display: flex;
+    background-color: #0000;
+    width: 100%;
+    height: 10vh;
+}
+
 .subtitulo1 {
-    flex-direction: row;
     bottom: 0;
     top: 0;
     display: flex;
