@@ -47,7 +47,8 @@ html{
     display: flex;
     background-color: #0000;
     width: 100%;
-    height: 10vh;
+    height: 15vh;
+    justify-content: center;
 }
 
 .subtitulo1 {
