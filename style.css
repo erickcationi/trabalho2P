@@ -48,11 +48,10 @@ html{
     width: 100%;
     background-color: #0000;
     height: 10vh;
-    ]
+
 }
 
 .subtitulo1 {
-    margin-top: 40vh;
     bottom: 0;
     top: 0;
     display: flex;
