@@ -46,8 +46,9 @@ html{
 .tapabarra {
     display: flex;
     background-color: #0000;
+    height: 9vh;
     top: 0;
-    bottom: 10vh;
+    bottom: 0;
 
 }
 
