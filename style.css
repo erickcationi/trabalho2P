@@ -43,6 +43,7 @@ html{
 }
 
 .subtitulo1 {
+    bottom: 0;
     top: 0;
     display: flex;
     background: linear-gradient(#333, #181c14);
@@ -55,6 +56,7 @@ html{
 }
 
 .subtitulo2 {
+    bottom: 0;
     top: 0;
     display: flex;
     background: linear-gradient(#181c14, #3c3d37);
@@ -67,6 +69,7 @@ html{
 }
 
 .subtitulo3 {
+    bottom: 0;
     top: 0;
     display: flex;
     background: linear-gradient(#3c3d37, #525e4e);
@@ -79,6 +82,7 @@ html{
 }
 
 .subtitulo4 {
+    bottom: 0;
     top: 0;
     display: flex;
     background: linear-gradient(#525e4e, #697565);
